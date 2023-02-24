@@ -1,29 +1,11 @@
-# filta-exercises
+# Filta Exercises of Joel Enanod Jr
 
-This template should help get you started developing with Vue 3 in Vite.
+Technologies:
 
-## Recommended IDE Setup
+VueJS 3 and Bootstrap 5
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+In the coding guidlines it stated to use bootstrap 4.4 but since bootstrap 4.4 uses JQuery, I've used Bootstrap 5.
 
-## Customize configuration
+# Explain why the result of ('b' + 'a' + + 'a' + 'a').toLowerCase() is banana.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+If you would remove the .toLowerCase(), you would see that the + + 'a' generates a NaN error.
