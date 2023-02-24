@@ -4,7 +4,7 @@ Technologies:
 
 VueJS 3 and Bootstrap 5
 
-In the coding guidlines it stated to use bootstrap 4.4 but since bootstrap 4.4 uses JQuery, I've used Bootstrap 5.
+In the coding guidelines, it stated to use bootstrap 4.4 but since bootstrap 4.4 uses JQuery, I've used Bootstrap 5.
 
 # Explain why the result of ('b' + 'a' + + 'a' + 'a').toLowerCase() is banana.
 
